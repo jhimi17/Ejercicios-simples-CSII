@@ -19,4 +19,4 @@ while a != 3:
             r = m * 3.5
             print("El resultado es :" , r , " soles")
         else:
-            print("ingresaste una opcion incorrect")
+            print("ingresaste una opcion incorrecta")
